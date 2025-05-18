@@ -1,5 +1,5 @@
 basic:
-    name: 'https://plantjoy.fr/?_ab=0&_fd=0&_sc=1&preview_theme_id=182307062107'
+    name: 'https://plantjoy.fr'
     environments:
         production: 'https://plantjoy.fr/?_ab=0&_fd=0&_sc=1&preview_theme_id=182307062107'
         staging: 'https://plantjoy.fr/?_ab=0&_fd=0&_sc=1&preview_theme_id=183391945051'
